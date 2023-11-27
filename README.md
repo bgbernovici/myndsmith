@@ -16,6 +16,6 @@ Experimental Swift wrapper around the [SDL2][1] ecosystem (SDL2, SDL2_TTF, SDL2_
 
 ## Demo
 ### SDL2 + SDL_TTF + SDL_Image sample
-![](https://github.com/bgbernovici/myndsmith/blob/main/demos/sdl2_demo.gif)
+![](https://github.com/bgbernovici/myndsmith/blob/main/demos/sdl2_demo.png)
 ### SDL2 + BGFX sample (OpenGL backend)
 ![](https://github.com/bgbernovici/myndsmith/blob/main/demos/bgfx_demo.gif)
