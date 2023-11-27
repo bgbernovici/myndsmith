@@ -1,0 +1,5 @@
+module RAW_SDL2_MIXER [system][extern_c] {
+    umbrella header "win_gen.h"
+    link "SDL2_MIXER"
+    export *
+}

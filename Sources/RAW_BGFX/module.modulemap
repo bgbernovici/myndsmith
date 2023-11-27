@@ -1,0 +1,5 @@
+module RAW_BGFX [system][extern_c] {
+    umbrella header "win_gen.h"
+    link "BGFX"
+    export *
+}
